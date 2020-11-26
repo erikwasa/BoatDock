@@ -1,0 +1,13 @@
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\bin\Debug\netcoreapp3.1\BoatHarbour.exe
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\bin\Debug\netcoreapp3.1\BoatHarbour.deps.json
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\bin\Debug\netcoreapp3.1\BoatHarbour.runtimeconfig.json
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\bin\Debug\netcoreapp3.1\BoatHarbour.runtimeconfig.dev.json
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\bin\Debug\netcoreapp3.1\BoatHarbour.dll
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\bin\Debug\netcoreapp3.1\BoatHarbour.pdb
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\obj\Debug\netcoreapp3.1\BoatHarbour.csprojAssemblyReference.cache
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\obj\Debug\netcoreapp3.1\BoatHarbour.AssemblyInfoInputs.cache
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\obj\Debug\netcoreapp3.1\BoatHarbour.AssemblyInfo.cs
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\obj\Debug\netcoreapp3.1\BoatHarbour.csproj.CoreCompileInputs.cache
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\obj\Debug\netcoreapp3.1\BoatHarbour.dll
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\obj\Debug\netcoreapp3.1\BoatHarbour.pdb
+C:\Users\erikw\source\repos\BoatHarbour\BoatHarbour\obj\Debug\netcoreapp3.1\BoatHarbour.genruntimeconfig.cache
